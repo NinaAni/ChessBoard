@@ -4,3 +4,9 @@ C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard\b
 C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
 C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
 C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard.git\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard.git\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard.git\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard.git\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard.git\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\Nina\Documents\Программирование\ChessBoard\ChessBoard.git\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache

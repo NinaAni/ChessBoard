@@ -18,12 +18,25 @@ namespace ChessBoard
                 //строка
                 
                 Console.Write("{0}", x);
-
-                for (int i = 0; i < 8; i++)
+                if (j % 2 == 0)
                 {
-                    if (i % 2 == 0) Console.Write(" ");
-                    else Console.Write("#");
+                    for (int i = 0; i < 8; i++)
+                    {
+                        if (i % 2 == 0) Console.Write(" ");
+                        else Console.Write("#");
+                    }
+
                 }
+                else
+                {
+                    for (int i = 0; i < 8; i++)
+                    {
+                        if (i % 2 == 0) Console.Write("#");
+                        else Console.Write(" ");
+                    }
+
+                }
+              
                 
                Console.Write("{0}", x);
                x = x - 1;
